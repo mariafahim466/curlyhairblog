@@ -1,0 +1,158 @@
+body {
+  font-family: Roboto,sans-serif;
+}
+
+img {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.links {
+  position: fixed;
+  left: 30px;
+  bottom: 8%;
+  top: 5%;
+  max-width: 200px;
+  max-height: 1070px;
+  padding: 0px 10px;
+}
+
+.image {
+  font-size: 15px;
+  color: grey;
+}
+
+.clicks li {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  font-size: 15px;
+  padding-left: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+header-cont { width: 100%; position:fixed; top:0px}
+header {
+  font-family: Roboto,sans-serif;
+  border: 0px solid #CCC;
+  font-size: 30px;
+  text-align: center;
+  position: fixed;
+  width:100%;
+  margin: 0px auto;
+  top:0px;
+  left:0px;
+  right:0px;
+  background-color: #00a2ff;
+  max-width: 800px;
+}
+
+.maintext {
+  text-align: center;
+  font-family: Roboto,sans-serif;
+}
+
+h1 {
+ color:purple;
+}
+
+h3 {
+  color: #00a2ff;
+  font-size: 22px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
+
+h4 {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  font-size: 18px;
+  padding-left: 0px;
+}
+
+p {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #141823bf;
+  
+}
+
+.avoid {
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
+
+
+.first {
+top: 48px;
+}
+
+.blotie {
+  max-width: 502px;
+  max-height: 28px;
+  text-align: center;
+}
+
+blockquote {
+  border-left: 5px solid #00a2ff!important;
+  background: #f5f2f2;
+  margin-top: 20px;
+  max-width: 790px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pics {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: 56%;
+  height: auto;
+}
+
+.picstwo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 35px;
+  width: 56%;
+  height: auto;
+}
+
+.picsthree {
+ margin-left: auto;
+ margin-right: auto;
+ width: 30%;
+ max-width: 100%;
+ height: auto;
+ padding-left: 5px;
+ padding-right: 5px;
+}
+
+.picsfour {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  max-width: 100%;
+  height: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
